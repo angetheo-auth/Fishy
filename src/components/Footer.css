@@ -63,6 +63,9 @@
   display: flex;
   justify-content: center;
 }
+.footer-link-wrapper{
+  display: flex;
+}
 .footer-link-items {
   display: flex;
   flex-direction: column;
@@ -137,7 +140,7 @@
   .footer-links {
     padding-top: 2rem;
   }
-  .footer-link-items{
+  .footer-link-wrapper{
     flex-direction: column;
   }
   
